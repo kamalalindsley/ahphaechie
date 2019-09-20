@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lahnookael.prodamji.cz/sitemap.xml
